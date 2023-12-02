@@ -1,18 +1,17 @@
-# ▷ Titan Academy Fandom summary◁
+# Titan Academy Fandom summary
 ### Execoote's edit summary of the Titan Academy Wiki.
+
+## RECENTLY EDITED (As of December 2023):
+1. 14 Types of NEW Students you'll MEET in School/Transcript
  
-## ▷ ✓ RECENTLY EDITED: ✓ ◁
-1. 13 Types of Students Cooking in Class/Transcript
- 
-## ▷ ⟁ CURRENTLY UNDER EDITING: ⟁ ◁
+## CURRENTLY UNDER EDITING:
 1. 13 Types of Students in a Science Fair (On hold)
-2. 14 Types of NEW Students you'll MEET in School/Transcript (First week of December)
-3. 14 Types of Students in a Surprise Exam!/Transcript (First week of December)
+3. 14 Types of Students in a Surprise Exam!/Transcript (Currently in editing)
  
-# ▷ CONTRIBUTIONS ◁
-CONTRIBUTIONS (✓ Completed, ✗ Partial | 0-1>A-Z): 》
+# CONTRIBUTIONS
+✓ Completed | ✗ Partial | Numerical to Alphabetical order
  
-## ▷ CHARACTERS AND ACTORS/ACTRESS (C#/A#): ◁
+## CHARACTERS AND ACTORS/ACTRESS (C#/A#):
 1. Amethyst - Actress (REVERTED)
 2. Ern Quek - Actor
 3. Grace Khoo - Actress
@@ -21,7 +20,7 @@ CONTRIBUTIONS (✓ Completed, ✗ Partial | 0-1>A-Z): 》
 6. Nordiana Binte Bakar - Actress
 7. The Invigilator - Character
  
-## ▷ EPISODES AND SIDE EPISODES (E#/SE#): ◁
+## EPISODES AND SIDE EPISODES (E#/SE#):
 1. 12 Types of People on Pay Day (✓)
 2. 12 Types of Students in a Presentation (NS) (✓)
 3. 12 Types of Students in Public Speaking Class (NS) (✓)
@@ -32,7 +31,7 @@ CONTRIBUTIONS (✓ Completed, ✗ Partial | 0-1>A-Z): 》
 8. 13 Types Of Gamer Girls (✓)
 9. 15 Types of People you'll Meet at Every Supermarket (✓)
  
-## ▷ TRANSCRIPTS (T#): ◁
+## TRANSCRIPTS (T#):
 1. 10 People You'll Meet at Every Birthday Party (✓)
 2. 11 Types of People at a Party (✓)
 3. 12 Types of People on Pay Day (✓)
@@ -49,9 +48,10 @@ CONTRIBUTIONS (✓ Completed, ✗ Partial | 0-1>A-Z): 》
 14. 13 Types of Students Getting Exam Results (SB) (✓)
 15. 13 Types of Students in a Science Fair (SB) (✓)
 16. 13 Types of Students in EVERY Classroom! (✓)
-17. 14 Types of NEW Students you'll MEET in School (✗)
+17. 14 Types of NEW Students you'll MEET in School (✓)
 18. 14 Types of Students in a Surprise Exam! (✗)
 19. 15 Types of People you'll Meet at Every Supermarket! (✓)
  
-## ▷ OTHERS (O#): ◁
-Singaporean Gentleman · Typical Korean Drama/Transcript
+## OTHERS (O#):
+1. Singaporean Gentleman
+2. Typical Korean Drama/Transcript
