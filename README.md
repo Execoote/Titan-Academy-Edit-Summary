@@ -4,10 +4,10 @@
 --- 
 ## RECENTLY EDITED (As of December 2023):
 1. 14 Types of NEW Students you'll MEET in School/Transcript
+2. 14 Types of Students in a Surprise Exam!/Transcript
 ---
 ## CURRENTLY UNDER EDITING:
 1. 13 Types of Students in a Science Fair (On hold)
-3. 14 Types of Students in a Surprise Exam!/Transcript (Currently in editing)
 ---
 # CONTRIBUTIONS
 #### ✓ - Completed | ✗ - Partial | Numerical to Alphabetical order
