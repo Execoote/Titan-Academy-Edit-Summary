@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LOADING</title>
+	<style>
+body {
+    background:rgba(0,0,0);
+}
+#overlay{
+  position:fixed;
+  z-index:50;
+  top:0%;
+  left:0px;
+  bottom:0;
+  right:0;
+}
+#overlay2{
+  position:fixed;
+  z-index:50;
+  top:53%;
+  left:0px;
+  bottom:0;
+  right:0;
+}
+.windows8 {
+	position: relative;
+	width: 50px;
+	height:50px;
+	top: 42%;
+	right: 8px;
+}
+.windows8 .wBall {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	opacity: 0;
+	transform: rotate(225deg);
+	animation: orbit 4.4s infinite;
+}
+.windows8 .wBall .wInnerBall{
+	position: absolute;
+	width: 6px;
+	height: 6px;
+	background: #ffffff;
+	left:0px;
+	top:0px;
+	border-radius: 6px;
+}
+.windows8 #wBall_1 {
+	animation-delay: 0.96s;
+}
+.windows8 #wBall_2 {
+	animation-delay: 0.19s;
+}
+.windows8 #wBall_3 {
+	animation-delay: 0.38s;
+}
+.windows8 #wBall_4 {
+	animation-delay: 0.58s;
+}
+.windows8 #wBall_5 {
+	animation-delay: 0.77s;
+}
+@keyframes orbit {
+	0% {
+		opacity: 1;
+		z-index:99;
+		transform: rotate(180deg);
+		animation-timing-function: ease-out;
+	}
+	7% {
+		opacity: 1;
+		transform: rotate(300deg);
+		animation-timing-function: linear;
+		origin:0%;
+	}
+	30% {
+		opacity: 1;
+		transform:rotate(410deg);
+		animation-timing-function: ease-in-out;
+		origin:7%;
+	}
+	39% {
+		opacity: 1;
+		transform: rotate(645deg);
+		animation-timing-function: linear;
+		origin:30%;
+	}
+	70%{
+		opacity: 1;
+		transform: rotate(770deg);
+		animation-timing-function: ease-out;
+		origin:39%;
+	}
+	75%{
+		opacity: 1;
+		transform: rotate(900deg);
+		animation-timing-function: ease-out;
+		origin:70%;
+	}
+	76% {
+		opacity: 0;
+		transform:rotate(900deg);
+	}100% {
+		opacity: 0;
+		transform: rotate(900deg);
+	}
+}
+#overlay3{
+  position:fixed;
+  z-index:1;
+  top:95%;
+  left:0;
+  bottom:0;
+  right:0;
+}
+	</style>
+</head>	
+	<body>
+        
+	</body>
+</html>
+
+<div align="center">
+<div id="overlay">
+<div class="windows8">
+	<div class="wBall" id="wBall_1">
+	 <div class="wInnerBall"></div>
+	</div>
+	<div class="wBall" id="wBall_2">
+	 <div class="wInnerBall"></div>
+	</div>
+	<div class="wBall" id="wBall_3">
+	 <div class="wInnerBall"></div>
+	</div>
+	<div class="wBall" id="wBall_4">
+	 <div class="wInnerBall"></div>
+   </div>
+   <div class="wBall" id="wBall_5">
+	<div class="wInnerBall"></div>
+   </div>
+  </div>
+</div>
+</div>
+<div align="center">
+    <div id="overlay2">
+        <span style="font-family: Segoe UI; font-size: 28px; font-weight:bold; -index:2; color:#fff">Loading page</span>
+    </div>
+</div>
+
+<div align="center">
+    <div id="overlay3">
+        <span style="font-family: Segoe UI; font-size: 18px; font-weight:lighter; -index:2; color:#ffffff">Execoote © 2023</span>
+    </div>
+</div>
+
+<meta http-equiv="refresh" content="10;url=http://127.0.0.1:5500/index.html" />
