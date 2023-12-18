@@ -7,9 +7,8 @@
 2. 14 Types of Students in a Surprise Exam!/Transcript
 ---
 ## CURRENTLY UNDER EDITING:
-1. 13 Types of Students in a Science Fair (On hold)
-2. 13 Types of Students on a SCHOOL TRIP!/Transcript (December 17)
-3. Students get PUNISHED after their secret is EXPOSED!/Transcript (January 1)	
+1. 13 Types of Students on a SCHOOL TRIP!/Transcript (December 17)
+2. Students get PUNISHED after their secret is EXPOSED!/Transcript (January 1)	
 ---
 # CONTRIBUTIONS
 #### ✓ - Completed | ✗ - Partial | Numerical to Alphabetical order
@@ -32,7 +31,7 @@
 4. 13 Types of Students Before an Exam (SB) (✓)
 5. 13 Types of Students During an Exam (SB) (✓)
 6. 13 Types of Students Getting Exam Results (SB) (✓)
-7. 13 Types of Students in a Science Fair (SB) (✗) (On hold)
+7. 13 Types of Students in a Science Fair (SB) (✗) (CANCELLED)
 8. 13 Types Of Gamer Girls (✓)
 9. 15 Types of People you'll Meet at Every Supermarket (✓)
 ---
