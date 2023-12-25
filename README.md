@@ -8,7 +8,7 @@
 ---
 ## CURRENTLY UNDER EDITING:
 1. 13 Types of Students on a SCHOOL TRIP!/Transcript (December 16)
-2. Students get PUNISHED after their secret is EXPOSED!/Transcript (January 20)	
+2. Students get PUNISHED after their secret is EXPOSED!/Transcript (December 20)	
 ---
 # CONTRIBUTIONS
 #### ✓ - Completed | ✗ - Partial | Numerical to Alphabetical order
