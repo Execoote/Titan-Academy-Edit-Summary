@@ -7,8 +7,8 @@
 2. 14 Types of Students in a Surprise Exam!/Transcript
 ---
 ## CURRENTLY UNDER EDITING:
-1. 13 Types of Students on a SCHOOL TRIP!/Transcript (December 17)
-2. Students get PUNISHED after their secret is EXPOSED!/Transcript (January 1)	
+1. 13 Types of Students on a SCHOOL TRIP!/Transcript (December 16)
+2. Students get PUNISHED after their secret is EXPOSED!/Transcript (January 20)	
 ---
 # CONTRIBUTIONS
 #### ✓ - Completed | ✗ - Partial | Numerical to Alphabetical order
