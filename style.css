@@ -25,7 +25,7 @@ body {
 	min-height: 100vh;
 
 	background-color: #0F0F0F;	
-	background-image: url('./Files/Background.jpg');
+	background-image: url('./Files/BackgroundWinter.jpg');
 	background-attachment: fixed;
 	/*background-size: 100% 100%; */ background-size: cover;
 	background-position: center;
