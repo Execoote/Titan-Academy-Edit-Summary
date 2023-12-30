@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/class-t1t5/images/e/e6/Site-logo.png" width="256" height="256">
+</p>
+
 ---
 ### Titan Academy Fandom summary
 #### Execoote's edit summary of the Titan Academy Wiki.
