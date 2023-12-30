@@ -26,15 +26,15 @@
 ---
 ## EPISODES AND SIDE EPISODES (E#/SE#):
 #### Note: Deprecated
-1. 12 Types of People on Pay Day (✓)
-2. 12 Types of Students in a Presentation (NS) (✓)
-3. 12 Types of Students in Public Speaking Class (NS) (✓)
-4. 13 Types of Students Before an Exam (SB) (✓)
-5. 13 Types of Students During an Exam (SB) (✓)
-6. 13 Types of Students Getting Exam Results (SB) (✓)
-7. 13 Types of Students in a Science Fair (SB) (✗) (CANCELLED)
-8. 13 Types Of Gamer Girls (✓)
-9. 15 Types of People you'll Meet at Every Supermarket (✓)
+1. [13 Types Of Gamer Girls](https://titanacademy.fandom.com/wiki/13_Types_Of_Gamer_Girls) (✓)
+2. [12 Types of People on Pay Day](https://titanacademy.fandom.com/wiki/12_Types_of_People_on_Pay_Day) (✓)
+3. [12 Types of Students in a Presentation](https://titanacademy.fandom.com/wiki/12_Types_of_Students_in_a_Presentation) (NS) (✓)
+4. [12 Types of Students in Public Speaking Class](https://titanacademy.fandom.com/wiki/12_Types_of_Students_in_Public_Speaking_Class) (NS) (✓)
+5. [13 Types of Students Before an Exam](https://titanacademy.fandom.com/wiki/13_Types_of_Students_Before_an_Exam) (SB) (✓)
+6. [13 Types of Students During an Exam](https://titanacademy.fandom.com/wiki/13_Types_of_Students_During_an_Exam) (SB) (✓)
+7. [13 Types of Students Getting Exam Results](https://titanacademy.fandom.com/wiki/13_Types_of_Students_Getting_Exam_Results) (SB) (✓)
+8. [13 Types of Students in a Science Fair](https://titanacademy.fandom.com/wiki/13_Types_of_Students_in_a_Science_Fair) (SB) (✗) (CANCELLED)
+9. [15 Types of People you'll Meet at Every Supermarket](https://titanacademy.fandom.com/wiki/15_Types_of_People_you'll_Meet_at_Every_Supermarket) (✓)
 ---
 ## TRANSCRIPTS (T#):
 1. [10 People You'll Meet at Every Birthday Party](https://titanacademy.fandom.com/wiki/10_People_You%27ll_Meet_at_Every_Birthday_Party/Transcript) (✓)
