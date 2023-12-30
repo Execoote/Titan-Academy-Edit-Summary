@@ -12,9 +12,9 @@
 1. TBA (1st quarter of 2024)
 ---
 # CONTRIBUTIONS
-#### ✓ - Completed | ✗ - Incomplete, Partial nor Cancelled | ↶ - Reverted |
+#### ✓ - Completed | ✗ - Incomplete, Partial nor Cancelled | ↶ - Reverted
 #### 🟦 - Titan Academy Episode | 🟪 - Night School Episode | 🟨 - Study Buddies Episode | 🟩 - Side Episode | 🟥 - Miscallenous
-####Numerical to Alphabetical order
+#### Numerical to Alphabetical order
 ---
 ## CHARACTERS AND ACTORS/ACTRESS (C#/A#):
 1. [Amethyst Phua](https://titanacademy.fandom.com/wiki/Amethyst_Phua) - Actress ↶
@@ -35,7 +35,7 @@
 5. 🟨 [13 Types of Students Before an Exam](https://titanacademy.fandom.com/wiki/13_Types_of_Students_Before_an_Exam) ✓
 6. 🟨 [13 Types of Students During an Exam](https://titanacademy.fandom.com/wiki/13_Types_of_Students_During_an_Exam) ✓
 7. 🟨 [13 Types of Students Getting Exam Results](https://titanacademy.fandom.com/wiki/13_Types_of_Students_Getting_Exam_Results) ✓
-8. 🟨 [13 Types of Students in a Science Fair](https://titanacademy.fandom.com/wiki/13_Types_of_Students_in_a_Science_Fair) ✗-CANCELLED
+8. 🟨 [13 Types of Students in a Science Fair](https://titanacademy.fandom.com/wiki/13_Types_of_Students_in_a_Science_Fair) ✗
 9. 🟩 [15 Types of People you'll Meet at Every Supermarket](https://titanacademy.fandom.com/wiki/15_Types_of_People_you'll_Meet_at_Every_Supermarket) ✓
 ---
 ## TRANSCRIPTS (T#):
