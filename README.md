@@ -6,14 +6,14 @@
 ### Titan Academy Fandom summary
 #### Execoote's edit summary of the Titan Academy Wiki.
 --- 
-## RECENTLY EDITED (As of December 2023):
+## RECENTLY EDITED (December 2023):
 1. 14 Types of NEW Students you'll MEET in School/Transcript
 2. 14 Types of Students in a Surprise Exam!/Transcript
 3. Students Get in BIG TROUBLE after stealing Billionaire's Ring/Transcript
 4. 13 Types of Students on a SCHOOL TRIP!/Transcript
 ---
-## CURRENTLY UNDER EDITING:
-1. TBA (1st quarter of 2024)
+## CURRENTLY UNDER EDITING (1st quarter of 2024):
+1. 13 Types of Students in Public Toilets/Transcript (7)
 ---
 # CONTRIBUTIONS
 #### ✓ - Completed | ✗ - Incomplete, Partial nor Cancelled | ↶ - Reverted
