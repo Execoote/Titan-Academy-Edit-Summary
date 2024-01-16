@@ -7,14 +7,14 @@
 #### Execoote's edit summary of the Titan Academy Wiki.
 --- 
 ## RECENTLY EDITED (January 2024):
-1. 13 Types of Students in Public Toilets/Transcript (6)
+1. 13 Types of Students in Public Toilets (6)
+2. 13 Types of Students in a School Assembly (12)
 ---
 ## CURRENTLY UNDER EDITING (1st quarter of 2024):
-1. 13 Types of Students in a School Assembly [#83] (January 14)
-2. Students get PUNISHED after their secret is EXPOSED! [#84] (January 21)
-3. 13 Types Of Students Studying For Exams [#85] (January 28)
-4. 17 Teachers You'll Meet in Every Online Class [#19] (February 15)
-5. Students in Online Exams vs Normal Exams [#27] (February 29)
+1. Students get PUNISHED after their secret is EXPOSED! [#84] (January 21)
+2. 13 Types Of Students Studying For Exams [#85] (January 28)
+3. 17 Teachers You'll Meet in Every Online Class [#19] (February 15)
+4. Students in Online Exams vs Normal Exams [#27] (February 29)
 ---
 # CONTRIBUTIONS
 #### ✓ - Completed | ✗ - Incomplete, Partial nor Cancelled | ↶ - Reverted
@@ -52,7 +52,7 @@
 6. 🟩 [13 Types Of Gamer Girls](https://titanacademy.fandom.com/wiki/13_Types_Of_Gamer_Girls/Transcript) ✓
 7. 🟦 [13 Types of People on Their Birthdays!](https://titanacademy.fandom.com/wiki/13_Types_of_People_on_Their_Birthdays!/Transcript) ✓
 8. 🟦 [13 Types of Students at a School Tour!](https://titanacademy.fandom.com/wiki/13_Types_of_Students_at_a_School_Tour!/Transcript) ✓
-9. 🟦 [13 Types of Students in a School Assembly](https://titanacademy.fandom.com/wiki/13_Types_of_Students_in_a_School_Assembly/Transcript) ✗
+9. 🟦 [13 Types of Students in a School Assembly](https://titanacademy.fandom.com/wiki/13_Types_of_Students_in_a_School_Assembly/Transcript) ✓
 10. 🟦 [13 Types of Students in Public Toilets](https://titanacademy.fandom.com/wiki/13_Types_of_Students_in_Public_Toilets/Transcript) ✓
 11. 🟦 [13 Types of Students on a SCHOOL TRIP!](https://titanacademy.fandom.com/wiki/13_Types_of_Students_on_a_SCHOOL_TRIP!/Transcript) ✓
 12. 🟦 [13 Types Of Students Studying For Exams](https://titanacademy.fandom.com/wiki/13_Types_Of_Students_Studying_For_Exams/Transcript) ✗
